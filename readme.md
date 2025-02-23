@@ -28,7 +28,7 @@ python app.py
 1. **Prompt Evaluation & User Ratings:**
    - User ratings stored in `user_sessions.db` can be analyzed to identify the lowest-rated queries. Based on this analysis, prompt modifications can be made to improve user experience.
    
-2. **RAG (Retrieval-Augmented Generation):**
+2. **RAG (Retrieval-Augmented Generation) and Integration of GaurdRails:**
    - Implement RAG for scenarios where query generation fails after multiple retries. PostgreSQL offers better support for such implementations.
 
 3. **Unit & Integration Tests:**
