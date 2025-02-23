@@ -42,5 +42,8 @@ python app.py
 
 6. **Docker Compose:**
    - Add Docker Compose files to manage multi-container setups (e.g., database, application server) for easier development and deployment.
+  
+7. **Better UI with Advanced Options:**
+    - Has minimal UI with minimal features which can further be improved upon.
 
 ---
