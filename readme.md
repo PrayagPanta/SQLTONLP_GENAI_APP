@@ -32,7 +32,7 @@ python app.py
    - Implement RAG for scenarios where query generation fails after multiple retries. PostgreSQL offers better support for such implementations.
 
 3. **Unit & Integration Tests:**
-   - Unit and integration tests should be added to ensure robustness. This was skipped due to time constraints but is essential for long-term maintainability.
+   - Unit and integration tests should be added to ensure robustness. This was skipped due to time constraints but is essential for identifying errors and for long-term maintainability.
 
 4. **Database Indexes:**
    - Consider adding indexes to the database for performance optimization based on query patterns and requirements.
